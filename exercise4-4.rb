@@ -10,4 +10,5 @@ my_array_symbols = [:red, :blue, :yellow]
 
 
 
-p my_array_artists[0..1]
+my_array_artists.delete("magic")
+p my_array_artists

@@ -10,4 +10,4 @@ my_array_symbols = [:red, :blue, :yellow]
 
 
 
-p my_array_artists[0..1]
+p my_array_age.sort.reverse
